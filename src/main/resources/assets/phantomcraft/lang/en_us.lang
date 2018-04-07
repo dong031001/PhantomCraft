@@ -1,0 +1,20 @@
+tile.phantomEssenceBlock.name=Phantom Essence Block
+tile.phantomAltar.name=Phantom Altar
+
+item.phantomEssence.name=Phantom Essence
+item.concentratedPhantomEssence.name=Concentrated Phantom Essence
+item.compactPhantomEssence.name=Compact Phantom Essence
+item.curstPhantomEssence.name=Curst Phantom Essence
+item.phantomSword.name=Phantom Sword
+item.phantomHelmet.name=Phantom Helmet
+item.phantomChestplate.name=Phantom Chestplate
+item.phantomLeggings.name=Phantom Leggings
+item.phantomBoots.name=Phantom Boots
+item.pahntomStick.name=Phantom Stick
+item.phantomPickaxe.name=Phantom Pickaxe
+item.phantomAxe.name=Phantom Axe
+
+item.heavenDirt.name=Heaven Dirt
+item.religiousFood.name=Religious Food
+
+itemGroup.phantomcraft=Phantom Craft

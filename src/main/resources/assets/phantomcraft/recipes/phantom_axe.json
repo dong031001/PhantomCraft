@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "#X",
+    "# "
+  ],
+  "key": {
+    "#": {
+      "item": "phantomcraft:phantom_stick"
+    },
+    "X": {
+      "item": "phantomcraft:concentrated_phantom_essence"
+    }
+  },
+  "result": {
+    "item": "phantomcraft:phantom_axe"
+  }
+}

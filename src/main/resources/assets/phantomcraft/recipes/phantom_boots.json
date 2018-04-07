@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "phantomcraft:compact_phantom_essence"
+    }
+  },
+  "result": {
+    "item": "phantomcraft:phantom_boots"
+  }
+}

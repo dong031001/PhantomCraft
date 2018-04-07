@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "phantomcraft:heaven_dirt"
+    },
+    "X": {
+      "item": "phantomcraft:compact_phantom_essence"
+    } 
+  },
+  "result": {
+    "item": "phantomcraft:phantom_altar"
+  }
+}

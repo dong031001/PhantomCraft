@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X#X",
+    "#X#",
+    "X#X"
+  ],
+  "key": {
+    "#": {
+	  "type": "minecraft:item",
+      "item": "minecraft:wheat_seeds"
+    },
+    "X": {
+	  "type": "minecraft:item",
+      "item": "minecraft:dirt",
+	  "data": 0
+    } 
+  },
+  "result": {
+    "item": "phantomcraft:heaven_dirt",
+	"count": 4
+  }
+}

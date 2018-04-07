@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+		"particle": "phantomcraft:blocks/altar_side",
+        "down": "phantomcraft:blocks/phantom_essence_block",
+        "up": "phantomcraft:blocks/altar_up",
+        "north": "phantomcraft:blocks/altar_side",
+        "east": "phantomcraft:blocks/altar_side",
+        "south": "phantomcraft:blocks/altar_side",
+        "west": "phantomcraft:blocks/altar_side"
+    }
+}

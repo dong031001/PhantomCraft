@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "phantomcraft:blocks/phantom_essence_block"
+    }
+}

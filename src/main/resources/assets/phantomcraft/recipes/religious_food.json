@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "X": {
+	  "type": "minecraft:item",
+      "item": "minecraft:porkchop"
+    },
+    "#": {
+      "item": "phantomcraft:heaven_dirt"
+    } 
+  },
+  "result": {
+    "item": "phantomcraft:religious_food"
+  }
+}
